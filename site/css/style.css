@@ -1,0 +1,6 @@
+li {
+  list-style: upper-roman;
+  font: 1rem 'Fira Sans', sans-serif;
+  margin-bottom: .5rem;
+  margin-left: 3rem;
+}
