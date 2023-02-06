@@ -1,0 +1,50 @@
+body {
+  background-color: #45c5c7;
+  margin: 10px;
+  padding-bottom: 6px;
+  font-weight: 400;
+  line-height: 1.8;
+  width: -100px;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Gill Sans', sans-serif;
+  text-decoration: underline;
+  font-size: 25px;
+}
+
+h2 {
+  font-family:'Poppins', sans-serif;
+  text-align: center;
+}
+
+h3 {
+  font-family:'Poppins', sans-serif;
+  text-align: center;
+}
+
+h4 {
+  font-family:'Poppins', sans-serif;
+  text-align: center;
+}
+
+h5 {
+  font-family:'Poppins', sans-serif;
+  text-align: center;
+}
+
+p {
+  font-family:'Poppins', sans-serif;
+  text-align: center;
+}
+
+div {
+  background-color: #fcbfa8;
+  width: -50px;
+  border: 10px solid white;
+  padding: 25px;
+  font-weight: 200;
+  line-height: 1.8;
+  margin: 100px;
+};
