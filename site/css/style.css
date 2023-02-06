@@ -1,5 +1,5 @@
 body {
-  background-color: #45c5c7;
+  background-color: hsl(181, 72%, 53%);
   margin: 10px;
   padding-bottom: 6px;
   font-weight: 400;
@@ -15,32 +15,32 @@ h1 {
 }
 
 h2 {
-  font-family:'Poppins', sans-serif;
+  font-family: 'Gill Sans', sans-serif;
   text-align: center;
 }
 
 h3 {
-  font-family:'Poppins', sans-serif;
+  font-family: 'Gill Sans', sans-serif;
   text-align: center;
 }
 
 h4 {
-  font-family:'Poppins', sans-serif;
+  font-family: 'Gill Sans', sans-serif;
   text-align: center;
 }
 
 h5 {
-  font-family:'Poppins', sans-serif;
+  font-family: 'Gill Sans', sans-serif;
   text-align: center;
 }
 
 p {
-  font-family:'Poppins', sans-serif;
+  font-family: 'Gill Sans', sans-serif;
   text-align: center;
 }
 
 div {
-  background-color: #fcbfa8;
+  background-color: hsl(16, 94%, 81%);
   width: -50px;
   border: 10px solid white;
   padding: 25px;
