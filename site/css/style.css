@@ -2,22 +2,34 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Ahom&display=swap');
 
 html {
-    font-family: 'Oswald', sans-serif;
-    font-style: normal;
-    font-size: 100%;
-    font-weight: 300;
+    /* font-family: 'Oswald', sans-serif; */
+    font-size: 1.5em;
+    background-color: skyblue;
 }
 
 body {
+    font-family: 'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 300;
     margin: 32px;
 }
 
 h1 {
     font-size: 2rem;
     margin: 16px 0;
+    text-align: center;
 }
 
 h2 {
     font-size: 1.75rem;
     margin: 16px 0;
+}
+
+hr {
+    height: 2px;
+    background-color: black;
+}
+
+nav {
+    text-align: center;
 }
