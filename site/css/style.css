@@ -9,33 +9,34 @@ body {
 }
 
 h1 {
-  font-family: 'Gill Sans', sans-serif;
+  font-family: Poppins, sans-serif;
   text-decoration: underline;
   font-size: 25px;
+  font-weight: 600;
 }
 
 h2 {
-  font-family: 'Gill Sans', sans-serif;
+  font-family: Poppins, sans-serif;
   text-align: center;
 }
 
 h3 {
-  font-family: 'Gill Sans', sans-serif;
+  font-family: Poppins, sans-serif;
   text-align: center;
 }
 
 h4 {
-  font-family: 'Gill Sans', sans-serif;
+  font-family: Poppins, sans-serif;
   text-align: center;
 }
 
 h5 {
-  font-family: 'Gill Sans', sans-serif;
+  font-family: Poppins, sans-serif;
   text-align: center;
 }
 
 p {
-  font-family: 'Gill Sans', sans-serif;
+  font-family: Poppins, sans-serif;
   text-align: center;
 }
 
