@@ -22,6 +22,11 @@ h2 {
   margin: 16px 0;
 }
 
+p,
+pre {
+  line-height: 1.5;
+}
+
 hr {
   height: 2px;
   background-color: black;
