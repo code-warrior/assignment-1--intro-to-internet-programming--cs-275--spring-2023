@@ -35,3 +35,8 @@ hr {
 nav {
   text-align: center;
 }
+
+div[id="img"] {
+  text-align: center;
+  margin-top: 64px;
+}
