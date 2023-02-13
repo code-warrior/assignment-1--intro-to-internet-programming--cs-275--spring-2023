@@ -1,5 +1,5 @@
 body {
-  background-color: hsl(181, 89%, 72%);
+  background-color: hsl(24, 95%, 43%);
   margin: 10px;
   padding-bottom: 6px;
   font-weight: 400;
@@ -36,16 +36,16 @@ h5 {
 }
 
 p {
-  font-family: Poppins, sans-serif;
+  font-family: vollkorn, sans-serif;
   text-align: center;
 }
 
 div {
-  background-color: hsl(16, 94%, 81%);
+  background-color: hsl(9, 54%, 97%);
   width: -50px;
   border: 10px solid white;
-  padding: 25px;
+  padding: 30px;
   font-weight: 200;
-  line-height: 1.8;
+  line-height: 1.9;
   margin: 100px;
 };
