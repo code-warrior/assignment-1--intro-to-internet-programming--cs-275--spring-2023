@@ -21,3 +21,19 @@ li {
   float: left;
   margin-left: 5px;
 }
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: black;
+}
+
+a:active {
+  color: black;
+}
