@@ -14,3 +14,10 @@ nav {
 h1 {
   background-color: #34568b;
 }
+
+ul {
+  display: block;
+  width: 85px;
+  float: left;
+  margin-left: 5px;
+}
