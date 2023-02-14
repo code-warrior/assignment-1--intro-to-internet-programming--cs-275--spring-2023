@@ -45,6 +45,15 @@ li {
   font-family: Lora, serif;
 }
 
+p {
+  font-size: 32px;
+  font-family: Lora, serif;
+  text-align: center;
+  margin-left: 12%;
+  margin-right: 12%;
+  margin-top: 10%;
+}
+
 img {
   text-align: center;
   scale: 25%;
