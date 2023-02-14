@@ -45,6 +45,10 @@ li {
   font-family: Lora, serif;
 }
 
+img {
+  scale: 25%;
+}
+
 a:link {
   color: white;
 }
