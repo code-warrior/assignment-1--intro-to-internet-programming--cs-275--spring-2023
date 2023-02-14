@@ -4,7 +4,7 @@ body {
 }
 
 nav {
-  background-color: #34568b;
+  background-color: #34648b;
   display: flex;
   position: fixed;
   height: auto;
@@ -13,26 +13,38 @@ nav {
 }
 
 h1 {
-  background-color: #34568b;
+  background-color: #34648b;
   font-family: Lora, serif;
   font-size: 40px;
-  margin-top: 10px;
   text-align: center;
+  display: block;
+  padding: 10px;
 }
 
 h2 {
   display: block;
   font-size: 28px;
-  margin-top: 50px;
+  padding-top: 5%;
   margin-bottom: 10px;
   text-align: center;
 }
 
+ul {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+  width: 100%;
+  margin: 0;
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-bottom: 1%;
+  padding-top: 2%;
+}
+
 li {
   display: block;
-  width: 85px;
-  float: left;
-  margin-left: 5px;
+  flex: 0 1 auto;
+  list-style-type: none;
   font-family: Lora, serif;
 }
 
