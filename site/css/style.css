@@ -46,7 +46,11 @@ li {
 }
 
 img {
+  text-align: center;
   scale: 25%;
+  position: fixed;
+  top: -60%;
+  width: 100%;
 }
 
 a:link {
