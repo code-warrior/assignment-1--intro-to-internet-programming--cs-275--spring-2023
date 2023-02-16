@@ -1,0 +1,42 @@
+:root {
+  font-size: 1.5em;
+}
+
+body {
+  background-color: skyblue;
+  font-family: 'Oswald', sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  margin: 32px;
+}
+
+h1 {
+  font-family: 'Noto Serif Ahom', serif;
+  font-size: 2rem;
+  margin: 16px 0;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.75rem;
+  margin: 16px 0;
+}
+
+p,
+pre {
+  line-height: 1.5;
+}
+
+hr {
+  height: 2px;
+  background-color: black;
+}
+
+nav {
+  text-align: center;
+}
+
+div[id="img"] {
+  text-align: center;
+  margin-top: 64px;
+}
