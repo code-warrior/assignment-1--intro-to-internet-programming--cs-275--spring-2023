@@ -1,0 +1,87 @@
+:root {
+  margin: auto;
+}
+
+header {
+  margin-top: 40px;
+  text-align: center;
+  color: white;
+}
+
+body {
+  background-image: linear-gradient(gray, rgb(74, 71, 71));
+}
+
+.headpicture {
+  max-width: 100%;
+  margin-left: 350px;
+  margin-bottom: 100px;
+  padding-left: 75px;
+}
+
+h2,
+ul {
+  font-family: Lora, sans-serif;
+  font-weight: 200;
+  text-align: center;
+  font-size: 17px;
+  padding-bottom: 55px;
+  color: white;
+}
+
+ul {
+  display: flex;
+}
+
+header {
+  font-family: Poppins, sans-serif;
+  text-align: center;
+  font-size: 48px;
+  font-weight: 600;
+}
+
+li {
+  font-family: Lora, sans-serif;
+  font-weight: 300;
+  font-size: 22px;
+  background-image: linear-gradient(white, rgb(74, 71, 71));
+  margin-bottom: 50px;
+  text-align: center;
+  width: 190px;
+  padding: 13px;
+  color: #93cee7;
+}
+
+h3 {
+  font-weight: 200;
+  font-family: Poppins, sans-serif;
+  font-size: 38px;
+  border-bottom: 3px dotted #93cee7;
+  width: 320px;
+  margin-left: 35px;
+  padding: 25px;
+  padding-top: 30px;
+  color: #93cee7;
+}
+
+p {
+  padding: 25px;
+  padding-bottom: 35px;
+  line-height: 2.3;
+  font-family: Lora, sans-serif;
+  font-size: 27px;
+  margin-bottom: 1.2;
+  height: 300px;
+  width: 700px;
+  margin-left: 30px;
+  color: white;
+}
+
+.rulepictures {
+  margin-left: 970px;
+  object-position: right;
+  margin-top: -350px;
+  padding: auto;
+  border: 5px solid #93cee7;
+  width: 630px;
+}
